@@ -1,0 +1,36 @@
+Source,Target,Type,Id,Label,timeset,Weight
+PRB,PRB,Directed,0,,,0.333333
+PC DO B,REDE,Directed,1,,,0.666667
+PMN,PMB,Directed,2,,,0.666667
+PSOL,REDE,Directed,3,,,0.333333
+PRP,PMB,Directed,4,,,1
+PSC,PR,Directed,5,,,0.333333
+PSC,AVANTE,Directed,6,,,0.333333
+PTC,PMB,Directed,7,,,0.333333
+PTC,PDT,Directed,8,,,0.333333
+PT,REDE,Directed,9,,,0.333333
+PT,MDB,Directed,10,,,0.333333
+PT,PMB,Directed,11,,,1
+MDB,PSB,Directed,12,,,0.333333
+MDB,PROS,Directed,13,,,0.333333
+PROS,REDE,Directed,14,,,0.333333
+PROS,PSB,Directed,15,,,0.333333
+PROS,PMB,Directed,16,,,0.666667
+PPS,REDE,Directed,17,,,0.333333
+PV,PSDB,Directed,18,,,0.333333
+PV,MDB,Directed,19,,,0.333333
+PV,PMB,Directed,20,,,1
+PSDB,PSB,Directed,21,,,0.333333
+PSL,PMB,Directed,22,,,0.333333
+DC,PMB,Directed,23,,,0.666667
+PMB,PSL,Directed,24,,,0.333333
+PR,PSDB,Directed,25,,,0.333333
+SD,PC DO B,Directed,26,,,0.333333
+SD,PSB,Directed,27,,,0.333333
+SD,PMB,Directed,28,,,0.333333
+PSB,REDE,Directed,29,,,0.333333
+PSB,PSD,Directed,30,,,0.333333
+PSB,PSOL,Directed,31,,,0.333333
+PRTB,PSD,Directed,32,,,0.333333
+PDT,PSDB,Directed,33,,,0.333333
+PDT,PMB,Directed,34,,,0.666667

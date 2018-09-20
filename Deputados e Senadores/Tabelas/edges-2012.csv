@@ -1,0 +1,8 @@
+Source,Target,Type,Id,Label,timeset,Weight
+PSD,PSD,Directed,0,,,0.5
+PSDB,PR,Directed,1,,,0.5
+PSDB,PATRI,Directed,2,,,0.5
+PSDB,PSDB,Directed,3,,,1
+MDB,PSC,Directed,4,,,0.5
+PR,PSDB,Directed,5,,,0.5
+PP,PSD,Directed,6,,,0.5
